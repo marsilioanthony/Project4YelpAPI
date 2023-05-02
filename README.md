@@ -6,3 +6,6 @@ type of resource. <b></p>
 <p> I found that there really wasn't much of a difference in the sentiment of the reviews in
 Montana from New York. New York was roughly a bit less positive, however I think some of that
 can be attributed to sampling/random error and that it does not in fact carry much meaning.</p>
+
+<p>The attached wordcloud images provide an interesting perspective on the reviewers' ideas about
+these businesses.</p>
